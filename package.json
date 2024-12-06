@@ -1,0 +1,16 @@
+{
+  "name": "aoc_js",
+  "version": "1.0.0",
+  "description": "Advent of Code puzzle solves (js)",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "dotenv": "^16.4.7"
+  }
+}
